@@ -1,1 +1,3 @@
-#Java Script Exercise 1
+# JavaScript Exercise 1
+
+## Source code
